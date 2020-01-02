@@ -1,4 +1,2 @@
 # idle_sync
-Avoid screensaver activation on secondary PCs while your primary PC is active.  Synchronize screen saver state between PCs!
-
-If you have a PC displaying dashboards, and another for your main workstation, this app will prevent the screensaver from covering your dashboards until the screensaver activates on your workstation.
+Synchronize screen saver state between PCs!  If one PC is active, no PC will display a screensaver.  If no PC is active, all PCs will display a screensaver.
